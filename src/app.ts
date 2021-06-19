@@ -85,7 +85,7 @@ export default class HelloWorld {
 							scale: { x: 1, y: 1, z: 1 }
 						}
 					},
-					appearance: { enabled: false }
+					appearance: { enabled: true }
 				},
 				addCollider: true		/* Must have a collider for buttons. */
 			}
